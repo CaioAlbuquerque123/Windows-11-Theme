@@ -59,6 +59,8 @@
         "stream_started": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/user_join.wav?raw=true",
         "mute": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/mute.wav?raw=true",
         "unmute": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/mute.wav?raw=true",
-        "stream_ended": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/stream_ended.wav?raw=true"
+        "stream_ended": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/stream_ended.wav?raw=true",
+        "reconnect": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/reconnect.wav?raw=true",
+        "user_moved": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/user_moved.wav?raw=true"
     }
 }

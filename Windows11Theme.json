@@ -1,0 +1,63 @@
+{
+    "manifest": {
+        "version": "0.1.0",
+        "author": "Sakiro#6328",
+        "license": "CEA",
+        "name": "Windows 11 Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/Default.jpg?raw=true"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1091420150143647764\/Segoe-UI-Variable-Static-Text-Bold.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1091421953434333195\/Segoe-UI-Variable-Static-Display-Bold.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1091421745447186492\/Segoe-UI-Variable-Static-Text-Light.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1091421745870819510\/Segoe-UI-Variable-Static-Text-Semilight.ttf",
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1091419636693749780\/SegoeUI-VF.ttf",
+        "whitney_semibold": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/Segoe-UI-Variable-Static-Text-Semibold.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/Segoe-UI-Variable-Static-Text-Light.ttf?raw=true"
+    },
+    "simple_colors": {
+        "active_channel": -1941204011,
+        "accent": -198277442,
+        "mention_highlight": 610584750,
+        "background": 26460134,
+        "background_secondary": 149549818
+    },
+    "colors": {
+        "brand": -434993165,
+        "brand_new_500": -904366387,
+        "primary_dark_400": -239150864,
+        "primary_dark_360": -430728485,
+        "uikit_btn_compound_color_selector_dark": -618168627,
+        "primary_dark_300": -236654599,
+        "uikit_btn_compound_color_selector_light": -1723100203,
+        "uikit_settings_item_text_color_dark": -241975322,
+        "uikit_settings_item_text_color_light": -546330146,
+        "abc_tint_switch_track": -1608953728,
+        "link": -112487467,
+        "link_500": -334329869,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -236404694,
+        "ic_sidebar_notifications_off_dark_24dp": -239325659,
+        "ic_sidebar_pins_off_dark_24dp": -241975322,
+        "ic_sidebar_pins_on_dark_24dp": -246705195,
+        "ic_thread": -242493757
+    },
+    "raws": {
+        "call_ringing": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/Ring01.wav?raw=true",
+        "call_calling": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/Alarm01.wav?raw=true",
+        "stream_user_left": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/stream_user_leave.wav?raw=true",
+        "stream_user_joined": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/stream_user_join.wav?raw=true",
+        "user_join": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/user_join.wav?raw=true",
+        "user_leave": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/user_leave.wav?raw=true",
+        "stream_started": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/user_join.wav?raw=true",
+        "mute": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/mute.wav?raw=true",
+        "unmute": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/mute.wav?raw=true",
+        "stream_ended": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-11-Theme\/blob\/main\/stream_ended.wav?raw=true"
+    }
+}

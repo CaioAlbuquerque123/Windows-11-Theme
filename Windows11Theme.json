@@ -3,7 +3,8 @@
         "version": "0.1.0",
         "author": "Sakiro#6328",
         "license": "CEA",
-        "name": "Windows 11 Theme"
+        "name": "Windows 11 Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/CaioAlbuquerque123\/Windows-11-Theme\/main\/Windows11Theme.json"
     },
     "background": {
         "overlay_alpha": 120,
